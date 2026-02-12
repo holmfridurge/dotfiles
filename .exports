@@ -1,5 +1,1 @@
-# Make vim the default editor
-export EDITOR="vim"
-
-# Make some commands not show up in history
-export HISTIGNORE="ls:cd:cd -:pwd:exit:date:* --help"
+/Users/holmfridurge/.exports
